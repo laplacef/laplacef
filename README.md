@@ -1,7 +1,7 @@
-<img src="res/letter-l.png" alt="drawing" width="200"/>
-
 ### Hi there 👋, I'm Frankie
 #### I am an experienced analyst, developer, and agile project manager skilled in enterprise data solutions.
+
+<img src="res/letter-l.png" alt="drawing" width="200"/>
 
 My area of focus is in data data engineering, database management, business analytics, visualizations, and functional programming for end-to-end process automation. I bring creativity, adaptability, and innovativeness into my work and have exceptional focus aimed at providing results. I am a productive and agile leader with effective presentation, communication, team building, and collaboration skills.
 
