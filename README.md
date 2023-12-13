@@ -1,3 +1,4 @@
+## (っ-̶●̃益●̶̃)っ.,︵.,‿Stylin'︵.,‿.,Profilin'
 #### data-driven software engineer
 - .py, .ipynb, .sql, .c, .r, .sh, .js, .html, .css, .twb
 - data intensive apps, analytics engineering, database management
